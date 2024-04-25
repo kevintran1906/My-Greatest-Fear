@@ -77,11 +77,14 @@
 
   ```
 {
+
  let fear = 0
 
-if( fear == 0 ){
+if( fear == 0 ) {
  confident++
  print('😀')
+
+}
 }
 ```
 
@@ -93,6 +96,7 @@ Copyright©
 
 Contact: <kvt@gmail.com>
 
+***
 
 
 
