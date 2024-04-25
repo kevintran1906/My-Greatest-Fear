@@ -65,7 +65,7 @@
 
 > <img src="https://media.istockphoto.com/id/1396725760/vector/top-tips-circle-message-bubble-with-light-bulb-emblem-banner-design-for-business-and.jpg?s=612x612&w=0&k=20&c=kjjhFDwp9nPX-jErK4g50vXGrl5BDMF1hag-Exxv4nk=" width="80" height="80">
 
-> Facing your fears may sound challenging. However, when you are ready face your fears, you have unlocked your new potential.
+> Facing your fears may sound challenging. However, when you are ready to face your fears, you have unlocked your new potential.
 
   - **Follow these steps:**
   1. Close your eyes 👀
